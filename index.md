@@ -8,7 +8,7 @@ On Github we will be publishing repos of Orchard CMS modules, both third-party o
 ## Approach
 We maintain a variety of private git repos (custom and cloned) outside of github and these are where we manage our code, creating branches for bugs and new features etc. 
 
-Periodically, we will ```merge --squash``` them into a BI/public branch, as we don't want think there's any merit in the details of every internal decision, commit comment and commit history being in the public domain. There may be times of course where we think that might not be the right approach, but for now we'll only make public our general releases.
+Periodically, we will ```merge --squash``` them into a BI/public branch and publish that, as we don't want think there's any merit in the details of every internal decision, commit comment and commit history being in the public domain. There may be times of course where we think that might not be the right approach, but for now we'll only make public our general releases.
 
 ## Changes we make
 Orchard modules are generally created from a command-line tool to scaffold the Visual Studio project. When starting work using a third-party repo we'll generally merge the source with a newly-scaffolded project to ensure that it really is based on the latest version - rather than a project that may well be a number of years old, that has had tweaks here and there to make it 'current version compliant'. This does mean that often there will be changes to many of the core project files (.csproj, .gitignore, web.config etc).
