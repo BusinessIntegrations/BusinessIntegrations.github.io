@@ -21,7 +21,7 @@ We also apply a set of our own defined coding styles and standards (with the hel
 5. Applying C#6 coding styles
 6. Applying limited sets of #regions
 
-Of course, the problem with standards and conventions is that everyone has their own, so we've tried to apply some rigour, standardisationand housekeeping to keep the code tidy without. Hope that's OK!
+Of course, the problem with standards and conventions is that everyone has their own, so we've tried to apply some rigour, standardisation and housekeeping to keep the code tidy without overdoing it. Hope that's OK!
 
 ### Useful Links
 For more information on [OrchardCMS](http://orchardproject.net/).
