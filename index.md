@@ -1,37 +1,13 @@
-## Business Integrations on Github
+# Business Integrations on Github
 
-You can use the [editor on GitHub](https://github.com/BusinessIntegrations/BusinessIntegrations.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Business Integrations Ltd is a web design and hosting company in the UK. We specialise in building elegant websites using CMS frameworks.
+We started out using Kentico CMS, but are now favouring the open-source Orchard CMS. Using Orchard gives us full access to source code, and a CMS with no licensing restrictions that Kentico has, and without paying large amounts of money for licenses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On Github we will be publishing repos of Orchard CMS modules, both third-party ones that we use frequently that we have adapted or modified to our own ends, or that we've written ourselves.
 
-### Markdown
+##Approach
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Useful Links
+For more information on [OrchardCMS](http://orchardproject.net/).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BusinessIntegrations/BusinessIntegrations.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Our company [website](http://business-integrations.com).
