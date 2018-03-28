@@ -1,4 +1,3 @@
-
 # Site Essentials
 ---
 We design and build web sites for clients using OrchardCMS which out-of-the-box doesn't come with some of the core functionality you'd generally expect from a CMS: Sitemaps, FavIcons, SEO etc etc.
@@ -11,6 +10,7 @@ All of these modules have been forked and are our available on our main [organis
 
 ### 1) Cookie Consent: [Mod.CookieConsent](https://github.com/BusinessIntegrations/Mod.CookieConsent)
 - Added an Enabled flag in settings to allow this to be toggled on/off.
+
 ### 2) Social Media Meta Tags [Om.Orchard.SocialMetaTags](https://github.com/BusinessIntegrations/Om.Orchard.SocialMetaTags)
 ### 3) Google Analytics [Orchard-Simple-Analytics](https://github.com/BusinessIntegrations/Orchard-Simple-Analytics)
 ### 4) Sitemap [Orchard-SiteMap](https://github.com/BusinessIntegrations/Orchard-SiteMap)
