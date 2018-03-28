@@ -7,6 +7,7 @@ So, rather than starting from scratch, we took a bunch of third-party modules an
 
 ## Modules
 All of these modules have been forked and are our available on our main [organisation page](https://github.com/BusinessIntegrations), or from the links below. I've listed the functional changes/fixed we've made to each module.
+The default branch containing our modified code for each is BI\public.
 
 ### 1) Cookie Consent: [Mod.CookieConsent](https://github.com/BusinessIntegrations/Mod.CookieConsent)
 - Added an Enabled flag in settings to allow this to be toggled on/off.
