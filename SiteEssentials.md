@@ -7,12 +7,12 @@ So, rather than starting from scratch, we took a bunch of third-party modules an
 ## Modules
 ### 
 
-https://github.com/BusinessIntegrations/Mod.CookieConsent
-https://github.com/BusinessIntegrations/Om.Orchard.SocialMetaTags
-https://github.com/BusinessIntegrations/Orchard-Simple-Analytics
-https://github.com/BusinessIntegrations/Orchard-SiteMap
-https://github.com/BusinessIntegrations/vandelay
-https://github.com/BusinessIntegrations/Yaplex.SEO
-
-### 7) [Devworx.CodePrettify](https://github.com/BusinessIntegrations/Devworx.CodePrettify)
+### 1) Cookie Consent: [Mod.CookieConsent](https://github.com/BusinessIntegrations/Mod.CookieConsent)
+### 2) Social Media Meta Tags [Om.Orchard.SocialMetaTags](https://github.com/BusinessIntegrations/Om.Orchard.SocialMetaTags)
+### 3) Google Analytics [Orchard-Simple-Analytics](https://github.com/BusinessIntegrations/Orchard-Simple-Analytics)
+### 4) Sitemap [Orchard-SiteMap](https://github.com/BusinessIntegrations/Orchard-SiteMap)
+### 5) Favicons [Vandelay](https://github.com/BusinessIntegrations/vandelay)
+### 6) SEO [Yaplex.SEO](https://github.com/BusinessIntegrations/Yaplex.SEO)
+### 7) Code Prettify [Devworx.CodePrettify](https://github.com/BusinessIntegrations/Devworx.CodePrettify)
 Provides code prettify support for formatting code in blog posts.
+Other than fixing a small bug (invalid hex in css) no functional changes were made to this module.
