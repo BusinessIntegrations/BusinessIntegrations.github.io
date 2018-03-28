@@ -4,6 +4,9 @@ We started out using Kentico CMS, but are now favouring the open-source Orchard 
 
 On Github we will be publishing repos of Orchard CMS modules, both third-party ones that we use frequently that we have adapted or modified to our own ends, or that we've written ourselves.
 
+## Site Essentials
+We've compiled a list of modules that we've worked on [here](~/SiteEssentials.html) that forms the core of our standard modules we enable for any new site.
+
 ## Approach
 We maintain a variety of private git repos (custom and cloned) outside of github and these are where we manage our code, creating branches for bugs and new features etc. 
 
