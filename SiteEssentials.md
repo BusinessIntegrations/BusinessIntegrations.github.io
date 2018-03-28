@@ -29,7 +29,7 @@ The default branch containing our modified code for each is BI\public.
 - Fixed empty columns to display correctly.
 
 ### 5) Favicons [Vandelay](https://github.com/BusinessIntegrations/vandelay)
-- This module originally contained a lot of unrelated features, most of which we didn't need, so this code was completely reworked to strip out all extraneous features and code including. (Sorry Bertrand!)
+- This module originally contained a lot of unrelated features, most of which we didn't need, so this code was completely reworked to strip out all extraneous features and code. (Sorry Bertrand!)
 - Enabled multiple FavIcon definitions to be defined and persisted
 - Reuse existing table but persists a JSON string containing all the definitions instead of single media path. 
 - Enabled persistence and configuration of the Rel/Type fields to allow for expanded options. 
