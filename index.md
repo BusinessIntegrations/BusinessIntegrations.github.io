@@ -1,3 +1,4 @@
+
 # Business Integrations on Github
 
 Business Integrations Ltd is a web design and hosting company in the UK. We specialise in building elegant websites using CMS frameworks.
@@ -21,6 +22,7 @@ We also apply a set of our own defined coding styles and standards (with the hel
 5. Applying C#6 coding styles
 6. Applying limited sets of #regions
 7. Adding missing Nuget packages (Mvc etc)
+8. Replacing hard-coded strings with constants defined in static classes, or using nameof() etc.
 
 Of course, the problem with standards and conventions is that everyone has their own, so we've tried to apply some rigour, standardisation and housekeeping to keep the code tidy without overdoing it. Hope that's OK!
 
