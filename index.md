@@ -1,6 +1,4 @@
-
 # Business Integrations on Github
-
 Business Integrations Ltd is a web design and hosting company in the UK. We specialise in building elegant websites using CMS frameworks.
 We started out using Kentico CMS, but are now favouring the open-source Orchard CMS. Using Orchard gives us full access to all functionality and the source code, and a CMS without the licensing restrictions that Kentico has, and also without paying large amounts of money for licenses for extra functionality.
 
@@ -19,13 +17,15 @@ We also apply a set of our own defined coding styles and standards (with the hel
 2. Code formatting (based on the Orchard standard, but with extra details added).
 3. Class member reordering.
 4. Class member naming conventions.
-5. Applying C#6 coding styles
-6. Applying limited sets of #regions
-7. Adding missing Nuget packages (Mvc etc)
+5. Applying C#6 coding styles.
+6. Applying limited sets of #regions.
+7. Adding missing Nuget packages (Mvc etc).
 8. Replacing hard-coded strings with constants defined in static classes, or using nameof() etc.
+9. Rationalise admin menu placement.
 
 Of course, the problem with standards and conventions is that everyone has their own, so we've tried to apply some rigour, standardisation and housekeeping to keep the code tidy without overdoing it. Hope that's OK!
 
-### Useful Links
-For more information on [OrchardCMS](http://orchardproject.net/).
-Our company [website](http://business-integrations.com).
+### Useful Info
+- For more information on [OrchardCMS](http://orchardproject.net/).
+- Our company [website](http://business-integrations.com).
+- [JetBrains Resharper](https://www.jetbrains.com/resharper/)
