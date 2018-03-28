@@ -13,9 +13,18 @@ The default branch containing our modified code for each is BI\public.
 - Added an Enabled flag in settings to allow this to be toggled on/off.
 
 ### 2) Social Media Meta Tags [Om.Orchard.SocialMetaTags](https://github.com/BusinessIntegrations/Om.Orchard.SocialMetaTags)
+- Fixed 'artice' typo, removed errant text in settings page.
+- Moved admin menu into its own root instead of Settings.
+
 ### 3) Google Analytics [Orchard-Simple-Analytics](https://github.com/BusinessIntegrations/Orchard-Simple-Analytics)
+- No functional changes introduced.
+
 ### 4) Sitemap [Orchard-SiteMap](https://github.com/BusinessIntegrations/Orchard-SiteMap)
+
 ### 5) Favicons [Vandelay](https://github.com/BusinessIntegrations/vandelay)
+
 ### 6) SEO [Yaplex.SEO](https://github.com/BusinessIntegrations/Yaplex.SEO)
+
 ### 7) Code Prettify [Devworx.CodePrettify](https://github.com/BusinessIntegrations/Devworx.CodePrettify)
-- Provides code prettify support for formatting code in blog posts. Other than fixing a small bug (invalid hex in css) no functional changes were made to this module.
+- Other than fixing a small bug (invalid hex in css) no functional changes were made to this module.
+
