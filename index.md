@@ -18,7 +18,7 @@ Orchard modules are generally created from a command-line tool to scaffold the V
 We also apply a set of our own defined coding styles and standards (with the help of Resharper, of course). This includes, but is not limited to:
 1. Removing unnecessary usings and project references.
 2. Code formatting (based on the Orchard standard, but with extra details added).
-3. Class member reordering.
+3. Class member reordering, including moving classes into their own files.
 4. Class member naming conventions.
 5. Applying C#6 coding styles.
 6. Applying limited sets of #regions.
