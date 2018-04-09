@@ -6,7 +6,7 @@ Although there appear to be a lot of modules available for Orchard in the galler
 However, rather than starting from scratch, we took a bunch of third-party modules and reworked them where necessary. We currently use these modules in production websites, and we generally refer to them as our 'Site Essentials' - as they contain functionality we'd generally use in every website.
 
 ## Modules
-All of these modules have been forked and are available on our main [organisation page](https://github.com/BusinessIntegrations), or from the links below. I've also listed the functional changes/fixed we've made to each module below.
+All of these modules have been forked and are available on our main [organisation page](https://github.com/BusinessIntegrations), or from the links below. I've also listed the functional changes/fixes we've made to each module below.
 
 Our approach to code changes is listed on [here](https://businessintegrations.github.io).
 
