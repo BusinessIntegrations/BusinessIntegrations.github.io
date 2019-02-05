@@ -29,6 +29,6 @@ We also apply a set of our own defined coding styles and standards (with the hel
 Of course, the problem with standards and conventions is that everyone has their own, so we've tried to apply some rigour, standardisation and housekeeping to keep the code tidy without overdoing it. Hope that's OK!
 
 ### Useful Info
-- For more information on [OrchardCMS](http://orchardproject.net/).
-- Our company [website](http://business-integrations.com).
+- For more information on [OrchardCMS](https://orchardproject.net/).
+- Our company [website](https://business-integrations.com).
 - [JetBrains Resharper](https://www.jetbrains.com/resharper/)
